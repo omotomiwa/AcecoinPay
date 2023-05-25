@@ -390,6 +390,7 @@
   .divider{
     display: flex;
     align-items: center;
+    background-position: center;
     
    
     
