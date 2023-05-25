@@ -367,16 +367,32 @@
   .card-number {
     font-size: 0.7em;
   }
-  .expiry-input {
+  .section {
     display: flex;
     flex-direction: column;
   }
   .checkout {
     margin-top: 3em;
+    padding-right: 25px;
   }
   .check-details {
     position: absolute;
     top: 18em;
+    right: 12px
+   
+  }
+  
+  .expiry-input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .divider{
+    display: flex;
+    align-items: center;
+    
+   
+    
   }
   .data {
     position: relative;

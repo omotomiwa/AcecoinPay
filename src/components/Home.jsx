@@ -80,11 +80,11 @@ function Home() {
                     </p>
                   </div>
                   <div className="d-flex expiry-input">
-                    <div className="main cvv-input">
+                    <div className="main cvv-input expire">
                       <input type="text" placeholder="09" />
                     </div>
                     <span className="divider">/</span>
-                    <div className="main cvv-input">
+                    <div className="main cvv-input expire">
                       <input type="text" placeholder="22" />
                     </div>
                   </div>
